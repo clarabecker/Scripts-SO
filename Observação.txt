@@ -1,0 +1,2 @@
+Para os códigos funcionarem precisam ser colocados na pasta "script" no disco local C.
+Pois alguns códigos tem caminho c:\script
